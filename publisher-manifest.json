@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "619131b34535bd98d77d798e",
+  "owner": "kutxvvg3w",
+  "repo": "page-6c7bfa01bd6e2ecfd2aeec23",
+  "title": "CAPW",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c7bfa01bd6e2ecfd2aeec23",
+      "a": "CAPW",
+      "b": "",
+      "entity": "CAPW",
+      "brand": "CAPW",
+      "separator": "",
+      "path": "index.html",
+      "hash": "69fa0866b74a97da0f6b89b7f0cf02cb9a51bfbf33538ee3f8f30f5b17d6c1eb",
+      "content": {
+        "keyword1": "CAPW",
+        "keyword2": "",
+        "primary_entity": "CAPW",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CAPW 用短句讲清会员档位、使用步骤与常见问题。深棕底色，薄荷点缀。无多余承诺。",
+          "AI_DESCRIPTION": "CAPW 用短句讲清会员档位、使用步骤与常见问题。深棕底色，薄荷点缀。无多余承诺。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;background:#2a1a12;color:#f3efe8;line-height:1.55}\na{color:#9ee8c8;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:24px 18px 64px}\n.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:start;padding:12px 0 36px}\n.hero h1{font-size:clamp(42px,8vw,76px);letter-spacing:.04em;margin:0 0 12px;color:#c8f5e2}\n.lead{font-size:18px;max-width:36ch}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 16px;margin:22px 0 0;font-size:14px}\n.anchors a{border-bottom:1px solid #7dcaa8;padding-bottom:2px;color:#d7fff0}\n.panel{background:#3a2418;border-radius:28px;box-shadow:0 16px 40px rgba(0,0,0,.28);padding:22px 22px 18px}\n.panel h2{margin:0 0 10px;font-size:18px;color:#9ee8c8}\n.panel p{margin:0 0 8px;font-size:15px}\n.panel ul{margin:8px 0 0;padding-left:18px}\nsection{margin:42px 0}\nh2{font-size:26px;color:#c8f5e2;margin:0 0 14px}\nh3{font-size:18px;color:#9ee8c8;margin:18px 0 8px}\np,li{font-size:16px}\n.card{background:#3a2418;border-radius:28px;box-shadow:0 14px 36px rgba(0,0,0,.26);padding:22px 24px;margin:0 0 18px}\n.card .price{font-size:22px;color:#9ee8c8}\n.mark{display:inline-block;font-size:12px;letter-spacing:.08em;border:1px solid #9ee8c8;color:#9ee8c8;border-radius:999px;padding:2px 10px;margin-left:8px}\n.steps ol{padding-left:20px}\n.steps li{margin:8px 0}\ndetails{background:#3a2418;border-radius:28px;box-shadow:0 12px 30px rgba(0,0,0,.22);padding:14px 18px;margin:0 0 12px}\nsummary{cursor:pointer;color:#c8f5e2;font-weight:600}\ndetails p{margin:10px 0 4px}\n.note{font-size:14px;color:#cbb9aa}\nfooter{margin-top:48px;font-size:13px;color:#b7a394}\n@media(max-width:800px){.hero{grid-template-columns:1fr}}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<div>\n<h1>CAPW</h1>\n<p class=\"lead\">短句够用。会员分三档。先看权益，再选节奏。不堆形容词。</p>\n<nav class=\"anchors\">\n<a href=\"#plans\">套餐</a>\n<a href=\"#howto\">使用</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问题</a>\n</nav>\n</div>\n<aside class=\"panel\">\n<h2>此刻要记住</h2>\n<p>品牌名：CAPW。</p>\n<p>页面只说明会员档位与操作顺序。</p>\n<p>没有公开的官方身份补充。</p>\n<ul>\n<li>价格按月/按年并列。</li>\n<li>下载地址暂缺，不编造链接。</li>\n<li>不确定的事项，不写进承诺。</li>\n</ul>\n</aside>\n</section>\n\n<section id=\"plans\">\n<h2>三档会员，单列看完</h2>\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月 · 年付 ¥150</p>\n<p>每月额度 100GB。三台设备共用。适合轻量阅读与备份。</p>\n<p class=\"note\">权益以开通页当时展示为准。</p>\n</article>\n<article class=\"card\">\n<h3>旗舰版 <span class=\"mark\">常用</span></h3>\n<p class=\"price\">¥35/月 · 年付 ¥350</p>\n<p>每月额度 300GB。五台设备。工单优先排队。</p>\n<p class=\"note\">适合多人轮流使用同一账户。</p>\n</article>\n<article class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月 · 年付 ¥850</p>\n<p>每月额度 1000GB。二十台设备。可谈路由与对接方式。</p>\n<p class=\"note\">面向集中管理的小组。</p>\n</article>\n</section>\n\n<section id=\"howto\" class=\"steps\">\n<h2>使用说明</h2>\n<p>按顺序做。跳步会卡住。</p>\n<ol>\n<li>选定一档。记下月付或年付。</li>\n<li>用账户完成开通。保存凭证。</li>\n<li>在本机安装可用客户端。地址见下节。</li>\n<li>登录同一账户。核对设备数量。</li>\n<li>先测本地访问。再扩大使用范围。</li>\n<li>额度将尽时，降负载或改档。</li>\n</ol>\n</section>\n\n<section id=\"clients\">\n<h2>客户端</h2>\n<div class=\"card\">\n<h3>状态</h3>\n<p>公开下载地址尚未提供。链接留空。</p>\n<p>请使用你已持有的官方安装包，或等待后续公布。</p>\n<p>url：</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>CAPW 是什么？</summary>\n<p>这是品牌名。本页只整理会员档位与操作顺序。没有额外身份声明。</p>\n</details>\n<details>\n<summary>价格会变吗？</summary>\n<p>页面数字来自参考档位。实际以结算页为准。先截图再付款。</p>\n</details>\n<details>\n<summary>没有客户端链接怎么办？</summary>\n<p>不要使用来路不明的安装包。等官方给出地址。本页不伪造下载。</p>\n</details>\n<details>\n<summary>设备超限会怎样？</summary>\n<p>超出档位数量时，新设备无法登录。先退出闲置终端。</p>\n</details>\n</section>\n<footer>CAPW · 静态说明页 · 仅展示已写入内容</footer>\n</main>",
+          "hash": "70ca420a4b42c52392e4a4230c03df4bf3abed37d307ef3cf31ab40fbc8be2cc",
+          "seo": {
+            "title": "CAPW 会员说明与使用指引",
+            "keywords": "CAPW,会员,套餐,使用说明,常见问题",
+            "description": "CAPW 用短句讲清会员档位、使用步骤与常见问题。深棕底色，薄荷点缀。无多余承诺。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "7568",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bgemo.cn",
+    "host": "p-5934f13f20.bgemo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "990cd6d7da314431dfc4978721ca324b2706ad41540beea7ae7ae6ef47247c14",
+    "sitemap.xml": "ddad118481ae1dd9f28e27e207a215519d3fc30f5653a877cba2b547c08c1929",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb67ed67a05ac4a5af62e957314c2d2254b7d6929fdd8226bbabb528e7778505",
+    "robots.txt": "36a9508901935478aad6823aeba2522250584f3522acbff016c04f8232e05717",
+    "1cf902dea504aa1a52d5105b0cf15f3b.txt": "56388410574e747bad7db9eb0575ff46d377f4246645e678afb60b0d32895f92"
+  },
+  "revision": "033d8659acf8ef8119f82fdcdf3701fbfe383bf73c015ae8e143b02a248edc08"
+}
